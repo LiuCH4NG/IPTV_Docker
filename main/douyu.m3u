@@ -1,14 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201612/19/22/ffc06ea36674503b942c5537874e8a4e_big.jpg" group-title="激战2",I大火球I
-http://192.168.11.1:35455/douyu/3916618
-#EXTINF:-1 tvg-name="斗鱼4K电影" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9deb93fa33fb4d9eb2a9bc30a465404c_big.jpg" group-title="一起看",斗鱼4K电影
-http://192.168.11.1:35455/douyu/9249162
 #EXTINF:-1 tvg-logo="https://sta-op.douyucdn.cn/vod-cover/2023/01/14/06f54e2b09a5be6968cc1806eadccbac.png/vdy1" group-title="DNF",旭旭宝宝
 http://192.168.11.1:35455/douyu/99999
 #EXTINF:-1 group-title="热门游戏",超级小桀
 http://192.168.11.1:35455/douyu/74751
+#EXTINF:-1 group-title="热门游戏",王拉奇
+http://192.168.11.1:35455/douyu/22223
 #EXTINF:-1 group-title="热门游戏",昔恩小姐姐
 http://192.168.11.1:35455/douyu/6301433
+#EXTINF:-1 group-title="热门游戏",恰饭丶珂哥
+http://192.168.11.1:35455/douyu/9828114
+#EXTINF:-1 group-title="热门游戏",恰饭丶二叔
+http://192.168.11.1:35455/douyu/7506266
 #EXTINF:-1 group-title="英雄联盟",芜湖大司马丶
 http://192.168.11.1:35455/douyu/606118
 #EXTINF:-1 tvg-logo="https://sta-op.douyucdn.cn/vod-cover/2022/12/22/04b776b5960ee1a85cb64d7981d83ff6.png/vdy1" group-title="热门游戏",一条小团团OvO
